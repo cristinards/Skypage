@@ -1,6 +1,6 @@
+
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #fafafa;
 }
 
 .grid-container {
@@ -22,7 +22,7 @@ main .grid-container .card{
   border-radius: 5px;
   box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
   padding: 15px;
-  margin: 20px;
+  margin: auto;
   width: 100%;
   transition: all 0.3s ease-out;
 }
